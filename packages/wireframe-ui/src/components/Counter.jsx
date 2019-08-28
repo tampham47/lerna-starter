@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Counter from '@gmdev/counter';
+import Counter from '@tampham47/counter';
 
 import { Button } from '../';
 
