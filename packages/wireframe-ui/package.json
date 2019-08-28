@@ -1,13 +1,13 @@
 {
   "name": "@tampham47/wireframe-ui",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Example Wireframe UI",
   "main": "dist/index.js",
   "module": "src/index.js",
   "author": "Gary Meehan",
   "dependencies": {
-    "@tampham47/button": "^0.0.4",
-    "@tampham47/counter": "^0.0.4"
+    "@tampham47/button": "^0.0.5",
+    "@tampham47/counter": "^0.0.5"
   },
   "peerDependencies": {
     "react": "^16.0.0",
